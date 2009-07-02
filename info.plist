@@ -190,13 +190,6 @@
 				<key>name</key>
 				<string>Defaults</string>
 			</dict>
-			<key>7FE401F9-5C97-4568-938E-193C05D5EA01</key>
-			<dict>
-				<key>items</key>
-				<array/>
-				<key>name</key>
-				<string>New Group</string>
-			</dict>
 			<key>88AA8D42-298F-4E67-93F2-64929531C248</key>
 			<dict>
 				<key>items</key>
@@ -251,7 +244,6 @@
 					<string>874726F1-685A-439F-A280-C7BDB45AD32E</string>
 					<string>E3CAACB7-CB8A-4E1F-91F8-D001D70DD6D3</string>
 					<string>4A668A27-8552-40D0-ABC6-EFBD637DEF20</string>
-					<string>7FE401F9-5C97-4568-938E-193C05D5EA01</string>
 				</array>
 				<key>name</key>
 				<string>Reset</string>
