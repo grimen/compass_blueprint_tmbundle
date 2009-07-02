@@ -1,4 +1,4 @@
-h1. COMPASS_BLUEPRINT.TMBUNDLE
+h1. COMPASS_BLUEPRINT.TMBUNDLE **BETA**
 
 A TextMate-bundle for the awesome CSS/SASS framework *"Compass"*, but with focus on *Blueprint* (my favorite CSS framework). With this set of shortcuts/snippets even more productive!
 
@@ -12,6 +12,12 @@ h2. Install this TextMate-bundle...
 cd ~/Library/Application\ Support/TextMate/Bundles
 git clone git://github.com/grimen/compass_blueprint_tmbundle.git 'Compass + Blueprint.tmbundle'
 osascript -e 'tell app "TextMate" to reload bundles'</pre>
+
+h2. Notice
+
+This is the first release of this bundle, and I suspect that some (or worst case most) of the keyboard shortcuts for constants and mixins might change (keyboard shortcuts don't make much of sense now). TextMate bundles don't support aliased shortcuts, which is a bit of pain in the ass.
+
+P.S. Please let me know if you know a scalable way of making keyboard shortcut aliases in TM without duplicating the snippets - which is the only way I can think of now, but quite a horrible one.
 
 h2. License
 
