@@ -19,7 +19,7 @@ osascript -e 'tell app "TextMate" to reload bundles'</pre>
 
 h2. Notice
 
-This is the first release of this bundle, and I suspect that some (or worst case most) of the keyboard shortcuts for _mixins_ might change (keyboard shortcuts don't make much of sense now). TextMate bundles don't support aliased shortcuts, which is a bit of pain in the ass.
+This is the first release of this bundle, and I suspect that some (or worst case most) of the *keyboard shortcuts for mixins might change* (keyboard shortcuts don't make much of sense now). TextMate bundles don't support aliased shortcuts, which is a bit of pain in the ass.
 
 P.S. Please let me know if you know a scalable way of making keyboard shortcut aliases in TM without duplicating the snippets - which is the only way I can think of now, but quite a horrible one.
 
