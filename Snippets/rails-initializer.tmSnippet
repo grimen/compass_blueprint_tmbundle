@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>require 'compass'
+
+if defined?(Compass)
+  # If you have any compass plugins, require them here.
+  Compass.configuration do |config|
+    config.project_path = Rails.root
+    config.sass_dir     = File.join('app', 'stylesheets')
+    config.css_dir      = File.join('public', 'stylesheets')
+  end
+  Compass.configure_sass_plugin!
+end</string>
+	<key>name</key>
+	<string>rails-initializer</string>
+	<key>scope</key>
+	<string>source.ruby.rails</string>
+	<key>tabTrigger</key>
+	<string>compass-config</string>
+	<key>uuid</key>
+	<string>C28C428A-1E26-452E-8FDA-D3F2296868D0</string>
+</dict>
+</plist>

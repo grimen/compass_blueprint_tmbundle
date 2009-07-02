@@ -37,7 +37,9 @@
 !blueprint_table_header_color ||= #C3D9FF
 !blueprint_table_stripe_color ||= #E5ECF9</string>
 	<key>name</key>
-	<string>colors-template</string>
+	<string>color-defaults</string>
+	<key>scope</key>
+	<string>source.sass</string>
 	<key>tabTrigger</key>
 	<string>compass</string>
 	<key>uuid</key>

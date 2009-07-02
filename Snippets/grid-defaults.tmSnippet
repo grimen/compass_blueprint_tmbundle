@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@import blueprint/modules/scaffolding.sass</string>
+	<string>!blueprint_grid_columns = 24
+!blueprint_grid_width   = 30px
+!blueprint_grid_margin  = 10px</string>
 	<key>name</key>
-	<string>import scaffolding</string>
+	<string>grid-defaults</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>compass</string>
 	<key>uuid</key>
-	<string>34998D51-84E9-41DF-A2C2-EF7DDE6983F1</string>
+	<string>53426B13-DCE5-4698-9184-EA990830DC38</string>
 </dict>
 </plist>

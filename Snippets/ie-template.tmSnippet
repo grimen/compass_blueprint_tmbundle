@@ -8,6 +8,8 @@
 +blueprint-ie</string>
 	<key>name</key>
 	<string>ie-template</string>
+	<key>scope</key>
+	<string>source.sass</string>
 	<key>tabTrigger</key>
 	<string>compass</string>
 	<key>uuid</key>

@@ -18,6 +18,8 @@
 +blueprint-scaffolding</string>
 	<key>name</key>
 	<string>screen-template</string>
+	<key>scope</key>
+	<string>source.sass</string>
 	<key>tabTrigger</key>
 	<string>compass</string>
 	<key>uuid</key>

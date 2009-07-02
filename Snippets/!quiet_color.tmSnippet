@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@import blueprint/modules/scaffolding.sass</string>
+	<string>!quiet_color
+</string>
 	<key>name</key>
-	<string>import scaffolding</string>
+	<string>!quiet_color</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>!</string>
 	<key>uuid</key>
-	<string>34998D51-84E9-41DF-A2C2-EF7DDE6983F1</string>
+	<string>9B762798-872A-4230-9627-16D6A07825CC</string>
 </dict>
 </plist>
