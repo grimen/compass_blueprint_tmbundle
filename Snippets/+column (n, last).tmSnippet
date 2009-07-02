@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>+column(${1:!n}, ${2:!last})</string>
+	<string>+column(${1:!n}, true)</string>
 	<key>name</key>
 	<string>+column (n, last)</string>
 	<key>scope</key>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>+span(${1:!n}, ${2:!override})</string>
+	<string>+span(${1:!n}, true)</string>
 	<key>name</key>
-	<string>+span (n, override)</string>
+	<string>+span (n, important)</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
