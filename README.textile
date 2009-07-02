@@ -1,6 +1,6 @@
 h1. COMPASS_BLUEPRINT.TMBUNDLE
 
-A TextMate-bundle for the awesome CSS/SASS Framework "Compass", but with focus on Blueprint (my favorite CSS framework). With this set of shortcuts/snippets even more productive!
+A TextMate-bundle for the awesome CSS/SASS framework *"Compass"*, but with focus on *Blueprint* (my favorite CSS framework). With this set of shortcuts/snippets even more productive!
 
 h2. What is Compass?
 

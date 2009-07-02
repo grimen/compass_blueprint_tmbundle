@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+blueprint-form-borders (${1:!unfocused_border_color}, ${2:!focus_border_color}, ${3:!fieldset_border_color})</string>
+	<key>name</key>
+	<string>+blueprint-form-borders (unfocused_border_color, focus_border_color, fieldset_border_color)</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>+fs</string>
+	<key>uuid</key>
+	<string>AF4F6F50-50D5-4FE8-A335-61F5FE84C0E2</string>
+</dict>
+</plist>

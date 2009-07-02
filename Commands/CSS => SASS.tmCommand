@@ -17,6 +17,8 @@ export TM_RUBY=$(which "${TM_RUBY:-ruby}")
 	<string>CSS =&gt; SASS</string>
 	<key>output</key>
 	<string>replaceSelectedText</string>
+	<key>scope</key>
+	<string>source.css</string>
 	<key>uuid</key>
 	<string>5926849B-A309-48AE-8570-12FE89A911F1</string>
 </dict>

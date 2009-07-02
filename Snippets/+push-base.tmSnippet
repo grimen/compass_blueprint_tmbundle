@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>+inner-table-borders(${1:!width}, ${2:!color})</string>
+	<string>+push-base</string>
 	<key>name</key>
-	<string>+inner-table-borders (width, color)</string>
+	<string>+push-base</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>+tb</string>
+	<string>+pb</string>
 	<key>uuid</key>
-	<string>11C5674E-B3C9-4284-BD83-E0AFF33F709B</string>
+	<string>10EC11A2-A03A-4C71-8C2F-D2B2E79FBD90</string>
 </dict>
 </plist>

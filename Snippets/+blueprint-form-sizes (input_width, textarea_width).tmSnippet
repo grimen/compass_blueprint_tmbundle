@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>+inner-table-borders(${1:!width}, ${2:!color})</string>
+	<string>+blueprint-form-sizes(${1:!input_width}, ${2:!textarea_width})</string>
 	<key>name</key>
-	<string>+inner-table-borders (width, color)</string>
+	<string>+blueprint-form-sizes (input_width, textarea_width)</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>+tb</string>
+	<string>+fs</string>
 	<key>uuid</key>
-	<string>11C5674E-B3C9-4284-BD83-E0AFF33F709B</string>
+	<string>4D6986D4-CEA0-4D6B-BEA2-4BB8A325989A</string>
 </dict>
 </plist>
