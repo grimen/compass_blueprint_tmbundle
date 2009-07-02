@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@import blueprint/modules/fancy_type.sass</string>
 	<key>name</key>
-	<string>import fancy type</string>
+	<string>import: fancy type</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

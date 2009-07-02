@@ -10,7 +10,7 @@
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>!</string>
+	<string>!c</string>
 	<key>uuid</key>
 	<string>8637DC97-FB2A-4C26-9BAB-987C6F290D49</string>
 </dict>

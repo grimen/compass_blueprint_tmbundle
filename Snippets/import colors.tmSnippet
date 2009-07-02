@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@import blueprint/modules/colors.sass</string>
 	<key>name</key>
-	<string>import colors</string>
+	<string>import: colors</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

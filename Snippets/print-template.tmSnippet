@@ -7,11 +7,11 @@
 
 +blueprint-print</string>
 	<key>name</key>
-	<string>print-template</string>
+	<string>template: print</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>compass</string>
+	<string>template</string>
 	<key>uuid</key>
 	<string>DC61BF68-64FD-4B2E-829F-03A9C9E83E63</string>
 </dict>

@@ -15,11 +15,11 @@ if defined?(Compass)
   Compass.configure_sass_plugin!
 end</string>
 	<key>name</key>
-	<string>rails-initializer</string>
+	<string>initializer: rails</string>
 	<key>scope</key>
 	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
-	<string>compass-config</string>
+	<string>compass-init</string>
 	<key>uuid</key>
 	<string>C28C428A-1E26-452E-8FDA-D3F2296868D0</string>
 </dict>

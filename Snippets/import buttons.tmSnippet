@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@import blueprint/modules/buttons.sass</string>
 	<key>name</key>
-	<string>import buttons</string>
+	<string>import: buttons</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

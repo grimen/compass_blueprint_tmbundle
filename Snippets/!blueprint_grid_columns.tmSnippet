@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>!success_border_color
+	<string>!blueprint_grid_columns
 </string>
 	<key>name</key>
-	<string>!success_border_color</string>
+	<string>!blueprint_grid_columns</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>!c</string>
+	<string>!l</string>
 	<key>uuid</key>
-	<string>062E4123-4F51-4352-B861-B60D60F83384</string>
+	<string>8C4226A7-61F8-44BD-BF0A-550725253734</string>
 </dict>
 </plist>

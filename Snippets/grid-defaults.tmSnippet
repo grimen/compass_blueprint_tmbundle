@@ -7,11 +7,11 @@
 !blueprint_grid_width   = 30px
 !blueprint_grid_margin  = 10px</string>
 	<key>name</key>
-	<string>grid-defaults</string>
+	<string>defaults: grid</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>compass</string>
+	<string>defaults</string>
 	<key>uuid</key>
 	<string>53426B13-DCE5-4698-9184-EA990830DC38</string>
 </dict>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@import blueprint/modules/debug.sass</string>
 	<key>name</key>
-	<string>import debug</string>
+	<string>import: debug</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

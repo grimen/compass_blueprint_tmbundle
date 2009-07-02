@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@import blueprint/modules/link_icons.sass</string>
 	<key>name</key>
-	<string>import link icons</string>
+	<string>import: link icons</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

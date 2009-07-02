@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@import blueprint/modules/scaffolding.sass</string>
 	<key>name</key>
-	<string>import scaffolding</string>
+	<string>import: scaffolding</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

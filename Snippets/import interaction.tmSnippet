@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@import blueprint/modules/interaction.sass</string>
 	<key>name</key>
-	<string>import interaction</string>
+	<string>import: interaction</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
