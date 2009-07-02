@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@import blueprint.sass
+	<string>`export RUBYLIB="$TM_BUNDLE_SUPPORT/vendor/rcodetools/lib${RUBYLIB:+:$RUBYLIB}"
+export TM_RUBY=$(which "${TM_RUBY:-ruby}")
 
-+blueprint-ie</string>
+"${TM_RUBY}" -e "require 'rubygems'; gem 'compass'; require 'compass'; puts File.read(Compass.base_directory+'/frameworks/blueprint/templates/project/ie.sass')"`</string>
 	<key>name</key>
 	<string>template: ie</string>
 	<key>scope</key>

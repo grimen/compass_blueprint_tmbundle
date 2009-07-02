@@ -3,19 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@import blueprint.sass
-@import blueprint/modules/scaffolding.sass
-@import blueprint/modules/debug.sass
-@import compass/reset.sass
-@import compass/utilities.sass
+	<string>`export RUBYLIB="$TM_BUNDLE_SUPPORT/vendor/rcodetools/lib${RUBYLIB:+:$RUBYLIB}"
+export TM_RUBY=$(which "${TM_RUBY:-ruby}")
 
-+blueprint-typography("body")
-+blueprint-utilities
-+blueprint-grid
-+blueprint-interaction
-+blueprint-form
-+blueprint-debug
-+blueprint-scaffolding</string>
+"${TM_RUBY}" -e "require 'rubygems'; gem 'compass'; require 'compass'; puts File.read(Compass.base_directory+'/frameworks/blueprint/templates/project/screen.sass')"`</string>
 	<key>name</key>
 	<string>template: screen</string>
 	<key>scope</key>
