@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@import blueprint.sass
-
-+blueprint-print</string>
+	<string>@import blueprint/modules/grid.sass</string>
 	<key>name</key>
-	<string>print-template</string>
+	<string>import grid</string>
 	<key>tabTrigger</key>
-	<string>compass</string>
+	<string>import</string>
 	<key>uuid</key>
-	<string>DC61BF68-64FD-4B2E-829F-03A9C9E83E63</string>
+	<string>8FF4F889-D6ED-4725-A93F-6B76A22B80F8</string>
 </dict>
 </plist>

@@ -19,7 +19,7 @@
 	<key>name</key>
 	<string>screen-template</string>
 	<key>tabTrigger</key>
-	<string>+compass</string>
+	<string>compass</string>
 	<key>uuid</key>
 	<string>FCDFBF4B-2AB0-462D-9461-43F8C0602B95</string>
 </dict>

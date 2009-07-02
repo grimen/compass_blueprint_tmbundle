@@ -39,7 +39,7 @@
 	<key>name</key>
 	<string>colors-template</string>
 	<key>tabTrigger</key>
-	<string>+compass</string>
+	<string>compass</string>
 	<key>uuid</key>
 	<string>1181B255-17C2-4CB2-8106-440EB305FA34</string>
 </dict>

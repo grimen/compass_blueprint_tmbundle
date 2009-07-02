@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>ie-template</string>
 	<key>tabTrigger</key>
-	<string>+compass</string>
+	<string>compass</string>
 	<key>uuid</key>
 	<string>2355CBA4-853F-40F0-8ECB-FA9382496DB5</string>
 </dict>
