@@ -8,7 +8,7 @@ h2. What is Compass?
 
 h2. What is Blueprint?
 
-"http://blueprintcss.org/":http://blueprintcss.org/
+"http://blueprintcss.org":http://blueprintcss.org
 
 h2. Install this TextMate-bundle...
 
