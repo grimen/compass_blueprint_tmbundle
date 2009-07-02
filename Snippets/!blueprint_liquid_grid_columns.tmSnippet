@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>!blueprint_liquid_grid_columns</string>
+	<key>name</key>
+	<string>!blueprint_liquid_grid_columns</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>!l</string>
+	<key>uuid</key>
+	<string>B85351B8-E131-4EE9-AE69-4BCAF0ED3484</string>
+</dict>
+</plist>

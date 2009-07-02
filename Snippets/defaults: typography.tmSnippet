@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>!blueprint_font_family       ||= "Helvetica Neue, Arial, Helvetica, sans-serif"
+!blueprint_fixed_font_family ||= "'andale mono', 'lucida console', monospace"
+!blueprint_font_size         ||= 12px</string>
+	<key>name</key>
+	<string>defaults: typography</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>defaults</string>
+	<key>uuid</key>
+	<string>057EA236-8434-45E9-8BF5-D58A1DB40344</string>
+</dict>
+</plist>

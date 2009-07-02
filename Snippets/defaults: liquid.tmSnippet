@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>// Main layout grid, override these constants to build your grid and container sizes.
+// The width shown gives the right floored percentage values.
+!blueprint_liquid_grid_columns ||= 24
+!blueprint_liquid_grid_width   ||= 4.173%
+!blueprint_liquid_grid_margin  ||= 0.833em
+
+// Do not edit below this line unless you really know what you're doing.
+!blueprint_liquid_container_width     = 80%
+!blueprint_liquid_container_min_width = 950px
+!blueprint_liquid_grid_push_pull      = -(!blueprint_liquid_grid_margin * 4)</string>
+	<key>name</key>
+	<string>defaults: liquid</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>defaults</string>
+	<key>uuid</key>
+	<string>01A00FA6-2C96-44AE-B2B6-7C2746F5B659</string>
+</dict>
+</plist>

@@ -91,6 +91,20 @@
 				<key>name</key>
 				<string>Configuration</string>
 			</dict>
+			<key>588E44E7-8DAE-4169-A8A2-BB2B86C36FA8</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B85351B8-E131-4EE9-AE69-4BCAF0ED3484</string>
+					<string>7DAD6847-2784-48B1-8D5C-B4FA24CCD454</string>
+					<string>E03BC67F-E274-4976-B73F-B317FF9D890B</string>
+					<string>A67D4F59-D3AD-4195-BEAD-F7CE97AD74CB</string>
+					<string>1DF8A693-B3AC-46FC-B73D-0850B71E89C2</string>
+					<string>0FF58FE9-00FE-4F67-8159-B7270BDEB989</string>
+				</array>
+				<key>name</key>
+				<string>Liquid</string>
+			</dict>
 			<key>6348F147-68D0-4CA9-9CC6-967679AC62F2</key>
 			<dict>
 				<key>items</key>
@@ -115,7 +129,9 @@
 				<key>items</key>
 				<array>
 					<string>53426B13-DCE5-4698-9184-EA990830DC38</string>
+					<string>01A00FA6-2C96-44AE-B2B6-7C2746F5B659</string>
 					<string>1181B255-17C2-4CB2-8106-440EB305FA34</string>
+					<string>057EA236-8434-45E9-8BF5-D58A1DB40344</string>
 				</array>
 				<key>name</key>
 				<string>Defaults</string>
@@ -208,12 +224,25 @@
 				<key>name</key>
 				<string>Lists</string>
 			</dict>
+			<key>E1CD69FC-DA59-4FAD-A28C-0CB646A61B51</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>2DE0EEB4-54C7-41FF-9995-BC3EE5D85B6F</string>
+					<string>84AA23EC-2A81-4247-BFFE-791F85E921C6</string>
+					<string>F584FC24-C5BD-4AC8-8570-A98D79DBE367</string>
+				</array>
+				<key>name</key>
+				<string>Typography</string>
+			</dict>
 			<key>E9F22FE5-3CCB-43BC-B9C1-F06D5BF4EAFB</key>
 			<dict>
 				<key>items</key>
 				<array>
 					<string>F5E4385F-A90B-4269-8CCE-9F0D1EF2545F</string>
+					<string>588E44E7-8DAE-4169-A8A2-BB2B86C36FA8</string>
 					<string>005F635C-E694-4373-95EE-8A87CAFDDBC9</string>
+					<string>E1CD69FC-DA59-4FAD-A28C-0CB646A61B51</string>
 				</array>
 				<key>name</key>
 				<string>Constans</string>
@@ -245,6 +274,8 @@
 					<string>8C4226A7-61F8-44BD-BF0A-550725253734</string>
 					<string>592E4A16-C563-454D-83F6-AB78D1F8E231</string>
 					<string>62DE6147-E743-479A-9738-8455FFE9D088</string>
+					<string>49E4E77E-579D-408E-A52A-1E74398E2163</string>
+					<string>1004B4E0-F778-4651-9F92-28D2A950130F</string>
 				</array>
 				<key>name</key>
 				<string>Grid</string>
@@ -260,8 +291,10 @@
 		<string>FCDFBF4B-2AB0-462D-9461-43F8C0602B95</string>
 		<string>DC61BF68-64FD-4B2E-829F-03A9C9E83E63</string>
 		<string>2355CBA4-853F-40F0-8ECB-FA9382496DB5</string>
-		<string>1181B255-17C2-4CB2-8106-440EB305FA34</string>
 		<string>53426B13-DCE5-4698-9184-EA990830DC38</string>
+		<string>01A00FA6-2C96-44AE-B2B6-7C2746F5B659</string>
+		<string>1181B255-17C2-4CB2-8106-440EB305FA34</string>
+		<string>057EA236-8434-45E9-8BF5-D58A1DB40344</string>
 		<string>8D9E2A02-5254-4FDD-BCAB-D217C743E5FA</string>
 		<string>D9077F2D-9FA8-4407-851F-5173CA5FBD8E</string>
 		<string>23E8A502-7630-4E36-B4A8-6E4D075C1A1C</string>
@@ -276,6 +309,17 @@
 		<string>8C4226A7-61F8-44BD-BF0A-550725253734</string>
 		<string>592E4A16-C563-454D-83F6-AB78D1F8E231</string>
 		<string>62DE6147-E743-479A-9738-8455FFE9D088</string>
+		<string>49E4E77E-579D-408E-A52A-1E74398E2163</string>
+		<string>1004B4E0-F778-4651-9F92-28D2A950130F</string>
+		<string>B85351B8-E131-4EE9-AE69-4BCAF0ED3484</string>
+		<string>7DAD6847-2784-48B1-8D5C-B4FA24CCD454</string>
+		<string>E03BC67F-E274-4976-B73F-B317FF9D890B</string>
+		<string>A67D4F59-D3AD-4195-BEAD-F7CE97AD74CB</string>
+		<string>1DF8A693-B3AC-46FC-B73D-0850B71E89C2</string>
+		<string>0FF58FE9-00FE-4F67-8159-B7270BDEB989</string>
+		<string>2DE0EEB4-54C7-41FF-9995-BC3EE5D85B6F</string>
+		<string>84AA23EC-2A81-4247-BFFE-791F85E921C6</string>
+		<string>F584FC24-C5BD-4AC8-8570-A98D79DBE367</string>
 		<string>A8A8CBA1-2C22-4C21-B0F4-4DC649D7CA3B</string>
 		<string>9B762798-872A-4230-9627-16D6A07825CC</string>
 		<string>6683839E-3DE5-4AA2-82A3-488D08A49172</string>
