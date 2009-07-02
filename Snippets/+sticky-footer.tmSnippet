@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>// More info: http://ryanfait.com/resources/footer-stick-to-bottom-of-page/ 
++sticky-footer(${1:!footer_height}, ${2:!root_selector}, ${3:!root_footer_selector}, ${4:!footer_selector})</string>
+	<key>name</key>
+	<string>+sticky-footer</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>+sf</string>
+	<key>uuid</key>
+	<string>CCCA6D85-F183-4951-882A-9AA28A4D2058</string>
+</dict>
+</plist>

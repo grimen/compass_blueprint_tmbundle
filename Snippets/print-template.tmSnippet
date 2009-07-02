@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@import blueprint.sass
+
++blueprint-print</string>
+	<key>name</key>
+	<string>print-template</string>
+	<key>tabTrigger</key>
+	<string>+compass</string>
+	<key>uuid</key>
+	<string>DC61BF68-64FD-4B2E-829F-03A9C9E83E63</string>
+</dict>
+</plist>

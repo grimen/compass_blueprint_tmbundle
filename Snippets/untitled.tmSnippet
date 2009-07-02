@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+alternating-rows-and-columns(${1:!even_row_color},${2:!odd_row_color}, ${3:!dark_intersection}, ${4:!header_color}, ${5:
+!footer_color})</string>
+	<key>name</key>
+	<string>+alternating-rows-and-columns</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>+at</string>
+	<key>uuid</key>
+	<string>767F27AA-D1E6-4A4D-B7E9-406E56343B1A</string>
+</dict>
+</plist>

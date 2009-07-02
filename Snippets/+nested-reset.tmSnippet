@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+nested-reset</string>
+	<key>name</key>
+	<string>+nested-reset</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>+r</string>
+	<key>uuid</key>
+	<string>180C5500-29F5-4748-9A0E-92310AA35FDD</string>
+</dict>
+</plist>

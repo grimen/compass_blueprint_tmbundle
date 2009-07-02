@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+replace-text(${1:!img}, ${2:!x}, ${3:!y})</string>
+	<key>name</key>
+	<string>+replace-text (image, x, y)</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>+rt</string>
+	<key>uuid</key>
+	<string>502590BA-F94B-4752-8383-DC63C9DBA4E1</string>
+</dict>
+</plist>
