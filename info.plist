@@ -14,6 +14,7 @@
 			<string>E9F22FE5-3CCB-43BC-B9C1-F06D5BF4EAFB</string>
 			<string>88AA8D42-298F-4E67-93F2-64929531C248</string>
 			<string>BF0B7B54-ED55-4AD9-9808-27B5F612115A</string>
+			<string>49B79748-9A8F-4C52-8FB5-FED3E637EF47</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -203,6 +204,7 @@
 					<string>A94FE4B3-8F6E-4D89-9C56-291C223CC30F</string>
 					<string>EBCE070F-2025-4579-97BD-9E580FF6EDBE</string>
 					<string>43AC39B2-C589-41F3-ADA5-E6EA68154662</string>
+					<string>D8943DAA-98A9-4D37-89DC-24B2F6203E7B</string>
 					<string>28F14FE3-A5AF-4F3E-95D2-4BF2225DAB76</string>
 					<string>D875BA2C-1252-47C4-A621-7219C9391771</string>
 					<string>EEE36B11-6240-4993-958E-4BBDC677F791</string>
@@ -394,6 +396,17 @@
 				</array>
 				<key>name</key>
 				<string>Interaction</string>
+			</dict>
+			<key>D8943DAA-98A9-4D37-89DC-24B2F6203E7B</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>E70B3071-E8F9-4E4D-81DE-B9A48DA97AF0</string>
+					<string>CBFBB396-0F28-4F6D-98AE-70649A1536B8</string>
+					<string>F584C93F-192B-472B-A535-87BADC670194</string>
+				</array>
+				<key>name</key>
+				<string> Colors</string>
 			</dict>
 			<key>E1CD69FC-DA59-4FAD-A28C-0CB646A61B51</key>
 			<dict>
@@ -629,6 +642,10 @@
 		<string>DBA89636-14D8-4507-90F4-39C14011E912</string>
 		<string>B2F37849-ECA9-4C08-A3D3-B965E9A6402E</string>
 		<string>6BF888EF-1CE8-4521-A7B6-ABE0E2AEE0AF</string>
+		<string>E70B3071-E8F9-4E4D-81DE-B9A48DA97AF0</string>
+		<string>CBFBB396-0F28-4F6D-98AE-70649A1536B8</string>
+		<string>F584C93F-192B-472B-A535-87BADC670194</string>
+		<string>49B79748-9A8F-4C52-8FB5-FED3E637EF47</string>
 	</array>
 	<key>uuid</key>
 	<string>742296DC-8170-456F-87A8-5A6714B317A0</string>
