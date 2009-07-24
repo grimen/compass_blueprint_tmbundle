@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>!sprite_image_default_width</string>
+	<key>name</key>
+	<string>!sprite_image_default_height</string>
+	<key>scope</key>
+	<string>source.sass</string>
+	<key>tabTrigger</key>
+	<string>!s</string>
+	<key>uuid</key>
+	<string>1C82037A-BE04-4898-8224-FE09499A6E9F</string>
+</dict>
+</plist>
